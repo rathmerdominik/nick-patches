@@ -23,6 +23,8 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
      If you wish to manually keep this list updated then remove the PATCHES_START and PATCHES_END 
      comment blocks entirely. -->
 
+<!-- PATCHES_END -->
+
 #### A list of your patches will automatically be shown here after your first patches release is created.
 
 <h1>Showcase</h1>
