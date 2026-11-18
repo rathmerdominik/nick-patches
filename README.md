@@ -15,13 +15,23 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/rathmerdominik/nick-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Diffuse&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release.
-     
-     If you wish for the patches list to be collapsed, then remove the word 'EXPANDED' from the comment tag above.
+**Package name:** `com.depthware.lwp.diffuse.v2`
 
-     If you wish to manually keep this list updated then remove the PATCHES_START and PATCHES_END 
-     comment blocks entirely. -->
+**🎯 Supported versions:**
+
+| 1.1.0.0 (3433)-PUB |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Fix media notification detection](#fix-media-notification-detection) | Detects music notifications posted by foreground services that don't set FLAG_ONGOING_EVENT e.G Morphed YT Music. Requires a PairIP bypass patch! |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
